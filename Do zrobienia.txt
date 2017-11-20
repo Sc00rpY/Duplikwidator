@@ -1,5 +1,5 @@
-Obsługa aplikacji przez CMD
+﻿Obsługa aplikacji przez CMD
 Javadoc
 Diagram Gantta
 Schematy UML
- 
+Dokończyć instrukcję
