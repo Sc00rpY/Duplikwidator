@@ -1,5 +1,7 @@
-﻿Obsługa aplikacji przez CMD
-Javadoc
-Diagram Gantta
-Schematy UML
-Dokończyć instrukcję
+﻿- baza danych SQLite przechowująca wyliczone hashe dla obrazów do porównywania, hashe plików np SHA, rozdzielczość obrazu. Pojedynczy plik z bazą w każdym folderze w którym szukamy duplikatów.
+- prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
+- obsługa aplikacji przez CMD
+- dokumentacja Javadoc
+- schematy UML
+- opcjonalnie diagram Gantta
+- dokończyć instrukcję obsługi
