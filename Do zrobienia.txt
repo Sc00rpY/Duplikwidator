@@ -1,6 +1,4 @@
-﻿- baza danych SQLite przechowująca wyliczone hashe dla obrazów do porównywania, hashe plików np SHA, rozdzielczość obrazu. Pojedynczy plik z bazą w każdym folderze w którym szukamy duplikatów.
-- konwertowanie obrazów do formatów obsługiwanych przez metody
-- obsługa aplikacji przez CMD
+﻿- obsługa aplikacji przez CMD
 - prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
 - dokumentacja Javadoc
 - schematy UML
