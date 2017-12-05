@@ -1,4 +1,5 @@
 ﻿- obsługa aplikacji przez CMD
+- testy jednostkowe metod
 - prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
 - dokumentacja Javadoc
 - schematy UML
