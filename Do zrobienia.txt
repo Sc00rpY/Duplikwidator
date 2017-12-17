@@ -1,7 +1,4 @@
-﻿- obsługa aplikacji przez CMD
-- testy jednostkowe metod
-- prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
+﻿- prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
 - dokumentacja Javadoc
 - schematy UML
-- dokończyć instrukcję obsługi
-- diagram Gantta?
+- testy jednostkowe metod
