@@ -1,4 +1,6 @@
-﻿- prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania
+﻿- zrefaktoryzować kod żeby nie było "sieczki"
+- biblioteka do parsowania komend z linii poleceń, tak żeby dało się np. wprowadzić kilka komend naraz
 - dokumentacja Javadoc
 - schematy UML
-- testy jednostkowe metod
+- prezentacja aplikacji z wyjaśnieniem w jaki sposób działają metody porównywania
+- testy jednostkowe metod?
