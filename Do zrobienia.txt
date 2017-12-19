@@ -2,3 +2,4 @@
 - dokumentacja Javadoc
 - schematy UML
 - testy jednostkowe metod
+- dokumentacja
