@@ -1,6 +1,10 @@
-﻿- zrefaktoryzować kod żeby nie było "sieczki"
-- biblioteka do parsowania komend z linii poleceń, tak żeby dało się np. wprowadzić kilka komend naraz
+﻿- refaktoryzacja kodu (poprawienie czytelności, podzielenie na klasy, osobne pliki itp)
 - dokumentacja Javadoc
-- schematy UML
-- prezentacja aplikacji z wyjaśnieniem w jaki sposób działają metody porównywania
-- testy jednostkowe metod?
+- podstawowe schematy UML
+- prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania plików:
+
+https://github.com/pragone/jphash
+https://gist.github.com/lihonosov/10988301
+https://codepaste.net/4rhkgq
+
+- testy jednostkowe metod, raczej nieobowiązkowe
