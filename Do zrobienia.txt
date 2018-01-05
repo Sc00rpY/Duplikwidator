@@ -1,5 +1,5 @@
 ﻿- refaktoryzacja kodu (poprawienie czytelności, podzielenie na klasy, osobne pliki itp)
-- dokumentacja Javadoc oraz dokumentacja projektu
+- dokumentacja projektu
 - podstawowe schematy UML
 - prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania plików:
 
