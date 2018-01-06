@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿- refaktoryzacja kodu (poprawienie czytelności)
+=======
+- refaktoryzacja kodu (poprawienie czytelności)
+>>>>>>> 2c29b0f93364421ae3a23b91b2414a9f2d4ed914
 - dokumentacja projektu
 - podstawowe schematy UML
 - prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania plików:
