@@ -2,6 +2,14 @@
 Aplikacja do wyszukiwania i eliminowania duplikatów plików graficznych.
 Wykonane w okresie listopad 2017 - styczeń 2018.
 
+## Repozytorium zawiera :
+* Archiwum ZIP z kodem programu
+* Instalator dla systemu Windows
+* Diagram UML
+* Podręcznik użytkownika
+* Założenia proejktowe
+* Javadoc
+
 ## Użyte technologie:
 * Java
 * Swing
