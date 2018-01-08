@@ -5,7 +5,7 @@ Wykonane w okresie listopad 2017 - styczeń 2018.
 ## Repozytorium zawiera :
 * Archiwum ZIP z kodem programu
 * Instalator dla systemu Windows
-* Diagram UML
+* Diagram UML wraz z instrukcją tworzenia przy pomocy pluginu easyUML
 * Podręcznik użytkownika
 * Założenia proejktowe
 * Javadoc
