@@ -1,0 +1,1 @@
+Folder zawiera diagramy uml aplikacji duplikwidator. 
