@@ -1,4 +1,5 @@
 ﻿- refaktoryzacja kodu (poprawienie czytelności)
+- dokumentacja projektu
 - podstawowe schematy UML
 - prezentacja z wyjaśnieniem w jaki sposób działają metody porównywania plików:
 
