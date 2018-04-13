@@ -1,2 +1,0 @@
-@ECHO OFF
-java -jar dist/Duplikwidator_20122017.jar -minimalnePodobienstwo 90 -metodyPorownywania pHash -szukajDla "C:\Duplikwidator\Duplikwidator\do testu" -szukajW "C:\Duplikwidator\Duplikwidator\do testu" -znajdzDuplikaty
