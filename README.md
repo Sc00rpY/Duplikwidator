@@ -14,9 +14,9 @@ Aplikacja umożliwiająca wyszukiwanie i usuwanie duplikatów plików graficznyc
 
 ![Alt text](/screenshots/1.jpg?raw=true "Optional Title")
 
-![Alt text](/screenshots/2.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/2.JPG?raw=true "Optional Title")
 
-![Alt text](/screenshots/3.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/3.JPG?raw=true "Optional Title")
 
 # Dokumenty
 
