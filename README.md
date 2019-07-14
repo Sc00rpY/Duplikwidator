@@ -6,9 +6,9 @@ Aplikacja umożliwiająca wyszukiwanie i usuwanie duplikatów plików graficznyc
 
 - Java
 - Swing
-- [jpHash] (https://github.com/pragone/jphash)
-- [ImagePHash] (https://gist.github.com/lihonosov/10988301)
-- [imgDiff] (https://codepaste.net/4rhkgq)
+- [jpHash](https://github.com/pragone/jphash)
+- [ImagePHash](https://gist.github.com/lihonosov/10988301)
+- [imgDiff](https://codepaste.net/4rhkgq)
 
 # Zrzuty ekranu
 
