@@ -20,6 +20,6 @@ Aplikacja umożliwiająca wyszukiwanie i usuwanie duplikatów plików graficznyc
 
 # Dokumenty
 
-[Podręcznik użytkownika](/Pordecznik_uzytkownika.pdf)
+[Podręcznik użytkownika](/Podrecznik_uzytkownika.pdf)
 
 [Założenia projektowe](/Zalozenia_projektowe.pdf)
