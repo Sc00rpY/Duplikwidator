@@ -1,6 +1,6 @@
 # Duplikwidator
 
-Aplikacja umożliwiająca wyszukiwanie i usuwanie duplikatów plików graficznych za pomocą trzech róznych metod porównywania obrazów, z możliwością obsługi przez wiersz poleceń.
+Aplikacja pozwalająca na wyszukiwanie i usuwanie duplikatów plików graficznych za pomocą trzech różnych metod porównywania obrazów z możliwością określenia minimalnej skali podobieństwa między nimi.
 
 # Wykorzystane technologie i biblioteki:
 
